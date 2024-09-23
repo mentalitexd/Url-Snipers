@@ -1,4 +1,4 @@
-# sniper-soon
+# sniper işte ama gibi gibi çalışıyor yine de
 
 
 L = listener token gircen T = sniper tokenini gircen K = mesaj atacağı kanal id S = urlyi güncelleyeceği sunucu id'si 
