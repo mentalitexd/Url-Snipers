@@ -1,7 +1,7 @@
-import tls from 'tls';
-import WebSocket from 'ws';
-import extractJsonFromString from 'extract-json-from-string';
-import connect from './node_modules/websocket/browser.js';
+const tls = require('tls');
+const WebSocket = require('ws');
+const extractJsonFromString = require('extract-json-from-string');
+const connect = require('./node_modules/ws/browser.js');
 
 const L = "";
 const T = "";
